@@ -1,0 +1,145 @@
+{
+  "LanguageSwitcher": {
+    "currentLanguage": "en",
+    "switchedLanguage": "ar"
+  },
+  "searchBar": {
+    "placeHolder": "Search Stores, coupons and discounts",
+    "searchButton": "search for store"
+  },
+  "navImage": {
+    "logo": "/images/logo/Logo_En.svg"
+  },
+
+  "navigationLinks": {
+    "home": "Home",
+    "allStores": "All Stores",
+    "allCoupons": "All Coupons",
+    "more": "More",
+    "menu": "Menu"
+  },
+  "sectionHead": {
+    "onlineDiscountCodes": "Online discount codes and Coupons",
+    "seeAllCoupons": "See all Coupons",
+    "featuredStoresOffers": "Featured Stores Offers",
+    "seeAllStores": "See all Stores"
+  },
+  "card": {
+    "active": "active",
+    "inactive": "inactive",
+    "discountCodeFor": "Discount Code",
+    "goToStore": "Go to Store",
+    "discountCouponCode": "Discount Coupon Code",
+    "clickToCopy": "Click to copy",
+    "codeCopied": "Code copied",
+    "success": "success"
+  },
+  "couponFeature": {
+    "title": "Coupons and Discount Codes Online",
+    "description1": "Shops Coupons is a top-tier website for coupons, gathering an extensive array of coupon codes, voucher coupons, along with numerous offers and discounts valid for the current year. The site also guides you on how to effectively use and apply coupons or promo codes, enabling you to save money while shopping online through various e-commerce platforms—all conveniently available in one place!",
+    "description2": "Our goal at Shops Coupons is to assist you in discovering the freshest and most recent coupon codes, promotional vouchers, and discount codes, all valid and tested for a multitude of local and international online retailers. Our dedicated team is committed to regularly checking and updating every coupon to ensure you get the best savings on purchases from your preferred shopping websites."
+  },
+  "home": {
+    "meta": {
+      "title": " Shops Coupons and Discount Codes in KSA & GCC",
+      "description": " Discover exclusive coupons and promo codes at our one-stop destination! Your ultimate destination for deals awaits; embrace discounts.",
+      "keywords": "Coupons, Discount codes, Promo codes, Vouchers, Coupon code, discount code, Coupon",
+      "openGraph": "/images/logo/Logo_En.svg"
+    }
+  },
+  "couponInstruction": {
+    "coupon_intro_title": "Here's everything you need to understand about leveraging online coupon codes and discounts:",
+    "coupon_intro_text": "A promotional code can grant you instant savings, either by reducing a percentage of your total order, like taking a certain percentage off your purchase cost, or by offering a specific amount off when you spend a set minimum, as well as providing free shipping. However, it can sometimes be challenging to find active codes that work. That's why the team at Shops Coupons diligently verifies each coupon code daily and checks their expiration dates.",
+    "coupon_process_step": "While Shopping online, you might have noticed a 'Coupon Code' box that appears before you complete the checkout process. Many online stores regularly offer promotional codes to their customers.",
+    "coupon_difficulties_text": "If you find it difficult to discover and apply the best coupons while Shopping from online stores, there's no need to worry; we're here to help. We will provide you with all the necessary advice to transition from a beginner to an expert in using coupons, enabling you to master the art of saving while Shopping online.",
+    "how_to_find_code": "How to find the right promo code:",
+    "how_to_find_code_text": "First, you need to locate a coupon code or discount voucher and understand how to apply it. Simply open a coupon website to search for a recent and valid discount coupon for the store you wish to Shops from and start saving. The coupons might offer a certain percentage or amount off your total, or alter your shipping costs by either eliminating or reducing them.",
+    "coupon_applicability": "The offers could be applicable site-wide or valid only on specific products or categories. In some cases, the coupons might require that your total purchase exceeds a certain limit, so it's important to regularly check the terms and conditions as they vary from one store to another.",
+    "how_to_use_coupon": "How to use the promotional coupon?",
+    "coupon_usage_text": "Once you locate the right discount coupon, you'll see details such as the discount amount (either a percentage or a fixed value), the expiration date of the coupon, terms and conditions, and the discount code itself. To access the promo code, click on 'Reveal Coupon.'' This action will open the retailer's website in a new window and display the code.",
+    "apply_promo_code": "Here’s how to properly apply a promotional code during online shopping.",
+    "apply_promo_code_text": "Before completing your purchase, we recommend all online Shoppers follow this guide for a seamless Shopping experience. Ensure that the voucher code is entered accurately. Typically, these codes are composed of uppercase English letters and can be case-sensitive, meaning they might not work if inputted in lowercase. When copying and pasting the discount code from our website, make sure no extra spaces are included at the beginning or end of the code, as this could trigger an error message.",
+    "apply_voucher_code": "How to apply the voucher code",
+    "apply_voucher_code_text": "To apply a voucher code, start by finishing your Shopping and adding items to your cart. Once you've copied a coupon code, paste it into the designated field during the checkout process and apply it. This will update your total to reflect the discount. After applying the discount, you can proceed with payment in your local currency and complete your order for shipping to major cities.       Make sure to apply your voucher code by typing it or pasting it into the coupon code box during checkout. Hit the apply button to activate the discount. Be mindful to locate this box, which might appear at various stages of the checkout, and ensure not to accidentally confirm your purchase before entering the code.",
+    "meet_order_value": "Make sure you meet the minimum order value",
+    "meet_order_value_text": "Many promotional vouchers have a minimum order value requirement. This means your order must meet or exceed a specific amount before the discount can be activated. The minimum value is calculated based on the actual cost of the items in your purchase, excluding any immediate discounts, and does not cover extra charges like taxes or shipping."
+  },
+  "footer": {
+    "about": {
+      "title": "About shops Coupons",
+      "description": "shops Coupons is Saudi Arabia and GCC's largest platform for coupons and discount codes. It offers a range of features that help users save money and avail discounts and offers from various stores."
+    },
+    "social": { "followUs": "Follow Us", "logo": "/images/logo/Logo_En.svg" },
+    "topStores": "Top Stores",
+
+    "featuredSection": {
+      "title": "Feature sections",
+      "navigationLinks": {
+        "home": "Home",
+        "allStores": "All Stores",
+        "allCoupons": "All Coupons",
+        "more": "More",
+        "menu": "Menu"
+      }
+    }
+  },
+  "category": {
+    "mainTitle": "All Stores for",
+    "secondTitle": "Online Shopping Platforms: Top Discount Codes and Coupons",
+    "description": "Our team at Shops coupons diligently curates the latest coupon codes, discounts, and deals from top online Shopping sites. The Middle East is rapidly becoming a hub for online stores and e-commerce platforms, offering a wide range of products that are just a click away and delivered to your doorstep with exceptional speed."
+  },
+  "coupons": {
+    "mainTitle": "Hot Coupon Deals",
+    "secondTitle": "Offers, Sales, Deals, and Discounts are available year-round",
+    "description": "A promo code can offer instant discounts either as a percentage off your total order, like 10% off, or as fixed value reductions, such as a 10 SAR discount on purchases of 100 SAR or more, or even free shipping. However, finding active discount codes can sometimes be challenging. For this reason, the team at shops coupons checks every voucher code and their expiry dates daily. If you find it difficult to locate and apply the best coupon while Shopping online, don't worry; we're here to guide you. We provide all the advice you need to evolve from a beginner to an expert in using coupons and saving money while Shopping on the internet.",
+    "meta": {
+      "title": " Top Discount Codes & Coupons Saving Of Up To 90% - shops Coupons",
+      "description": "Save big with shops coupons, deals, and promos! Get discounts and exclusive offers from top brands on clothing, beauty, grocery, and more.",
+      "keywords": "Coupons, Disscount codes, Promo codes, Vouchers, Coupon code, discount code, Coupon",
+      "openGraph": "/images/logo/Logo_En.svg"
+    }
+  },
+  "pagination": {
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "stores": {
+    "mainTitle": "All Stores and deals",
+    "secondTitle": "Online Shopping Platforms: Top Discount Codes and Coupons",
+    "description": " Our team at Shops coupons diligently curates the latest coupon codes, discounts, and deals from top online Shopping sites. The Middle East  is rapidly becoming a hub for online stores and e-commerce platforms,  offering a wide range of products that are just a click away anddelivered to your doorstep with exceptional speed.",
+    "meta": {
+      "title": " Explore Top Online Stores for Latest Coupons and Deals - Shops Coupons",
+      "description": "Click here for a comprehensive list of online Shopping sites and e-commerce stores featuring the latest coupons, discount codes, and deals.",
+      "keywords": "Coupons, Discount codes, Promo codes, Vouchers, Coupon code, discount code, Coupon, deals",
+      "openGraph": "/images/logo/Logo_En.svg"
+    }
+  },
+  "store": {
+    "storeSite": " shop now",
+    "storeTitle": "All Stores"
+  },
+  "storeCoupon": {
+    "coupon": "coupon",
+    "available": "Available in",
+    "copy": "copy",
+    "copy_instructions": "Copy the code above and paste at checkout.",
+    "copied": "Copied",
+    "go": "go to"
+  },
+  "UserRegister": {
+    "subscribe": "Subscribe Now",
+    "emailError": "enter valid email",
+    "phoneNumberRequired": " phone number is required",
+    "title": "Get exclusive offers delivered to your inbox",
+    "email": "Email ",
+    "backendError": "email already in use"
+  },
+  "thankYou": {
+    "thankYouTitle": "Thank You for Registering!",
+    "thankYouMessage": "We're excited to have you on board! Get ready for some sizzling deals coming your way.",
+    "hotOffersTitle": "Hot Offers Await!",
+    "hotOffersMessage": "Keep an eye on your inbox for exclusive discounts and early access to our best deals.",
+    "returnHome": "Return Home",
+    "checkEmailMessage": "Check your email for a special welcome gift!"
+  }
+}
